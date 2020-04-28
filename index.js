@@ -6,5 +6,5 @@ function mondayWork(work){
     console.log("This monday, I will go to the office");
 
 
-  
+
 }
